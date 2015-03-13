@@ -1,0 +1,16 @@
+############################################################################################################################
+# El presente software contenido en las carpetas /Codigo Fuente y /Ejecutables es parte de la TESIS 2014:                  #
+# “Análisis comparativo de técnicas de IA para corregir la inconsistencia en la matriz del Proceso Analítico Jerárquico”.  #
+# Autores: Marianela Daianna Labat, Federico Matias Rodriguez.                                                             #
+############################################################################################################################
+
+Estructura de las carpetas:
+/Codigo Fuente (Contiene el codigo fuente de todos los aplicativos en formato de proyecto de Netbeans 8).
+	/AHP Neural Network (Contiene el codigo fuente del entrenamiento de la red neuronal BPN en formato de proyecto de Netbeans 8).
+	/AHP Support Vector Machine (Contiene el codigo fuente del entrenamiento de la red SVM en formato de proyecto de Netbeans 8).
+	/AHP_Tesis (Contiene el codigo fuente del aplicativo de interfaz grafica en formato de proyecto de Netbeans 8).
+/Ejecutables (Contiene los 3 aplicativos en formato .jar para ser ejecutados en cualquier PC utilizando la maquina virtual de Java).
+
+#################################################################################################
+#Software amparado bajo la licencia GNU GPL v3. Cada libreria utilizada tiene su propia licencia#
+#################################################################################################

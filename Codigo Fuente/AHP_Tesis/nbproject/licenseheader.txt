@@ -1,0 +1,13 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Software perteneciente al trabajo de Tésis:
+${licensePrefix}Analisis Comparativo de Tecnicas de IA para la Correccion de la Inconsistencia
+${licensePrefix}de la Matriz del Proceso Analítico Jerarquico
+${licensePrefix}Autor: Federico Matias Rodriguez - rfedericomatias@gmail.com
+${licensePrefix}Autor: Marianela Daianna Labat - daiannalabat@gmail.com
+${licensePrefix}Año: 2014
+${licensePrefix}Universidad Gaston Dachary
+<#if licenseLast??>
+${licenseLast}
+</#if>
